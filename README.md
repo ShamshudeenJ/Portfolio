@@ -3,4 +3,4 @@
 # Projects
 # Training
 
-LinkedIn [LinkedIn](https://www.linkedin.com/in/shamshudeen-j-948ab726/)
+[LinkedIn](https://www.linkedin.com/in/shamshudeen-j-948ab726/)
