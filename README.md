@@ -10,7 +10,7 @@ Since Aug,***2010***
 
 
 # Trainings
-[https://github.com/ShamshudeenJ/AnalyticsClass](###Data-Analytics-for-Electronics-Engineers--Webinar)
+[https://github.com/ShamshudeenJ/AnalyticsClass] ### Data-Analytics-for-Electronics-Engineers--Webinar
 
 A Walkthrough on steps involved in analyzing data collected from IoT sensors
 1. Understanding Data file using Python pandas
