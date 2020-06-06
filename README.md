@@ -3,15 +3,15 @@
 Centre for Development of Advanced Computing, Chennai <br>
 Since Aug,***2010***
 
-# Projects
+## Projects
 
 
 
 
 
-# Trainings
+## Trainings
 ### Data Analytics for Electronics Engineers
-[https://github.com/ShamshudeenJ/AnalyticsClass](#data-analytics-for-electronics-engineers)
+[https://github.com/ShamshudeenJ/AnalyticsClass](<h3> Data </h3>)
 
 A Walkthrough on steps involved in analyzing data collected from IoT sensors
 1. Understanding Data file using Python pandas
