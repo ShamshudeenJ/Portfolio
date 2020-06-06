@@ -10,6 +10,7 @@ Since Aug,***2010***
 
 
 # Training
-
+### Data Analytics for Electronics Engineers - Webinar
+[Files](https://github.com/ShamshudeenJ/AnalyticsClass)
 
 [LinkedIn](https://www.linkedin.com/in/shamshudeen-j-948ab726/)
