@@ -11,7 +11,7 @@ Since Aug,***2010***
 
 # Trainings
 ### Data Analytics for Electronics Engineers - Webinar
-[Files](https://github.com/ShamshudeenJ/AnalyticsClass) <br>
+[Analytics Class](https://github.com/ShamshudeenJ/AnalyticsClass) <br>
 A Walkthrough on steps involved in analyzing data collected from IoT sensors
 1. Understanding Data file using Python pandas
 2. Visualization (Univariate and Bivariate plots) for further insights
@@ -21,7 +21,7 @@ A Walkthrough on steps involved in analyzing data collected from IoT sensors
 
 ### Python for Data Science - ACTS classes
 A Two week classes for graduates on Python for data sciene
-[Files]()
+[ACTS materials]() <br>
 1. Python - Installation and Usage
 2. Datatypes and operators
 3. Flow controls and Loops 
