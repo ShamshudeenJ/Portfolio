@@ -1,6 +1,6 @@
 ## Shamshudeen J
-**Project Engineer**
-Centre for Development of Advanced Computing (***C-DAC***), Chennai
+**Project Engineer** at ***C-DAC***
+Centre for Development of Advanced Computing, Chennai
 Since Aug,***2010***
 
 # Projects
