@@ -10,7 +10,7 @@ Since Aug,***2010***
 
 
 # Trainings
-### Data Analytics for Electronics Engineers - Webinar (https://github.com/ShamshudeenJ/AnalyticsClass)
+### Data Analytics for Electronics Engineers - Webinar {: #https://github.com/ShamshudeenJ/AnalyticsClass}
 A Walkthrough on steps involved in analyzing data collected from IoT sensors
 1. Understanding Data file using Python pandas
 2. Visualization (Univariate and Bivariate plots) for further insights
