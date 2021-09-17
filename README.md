@@ -1,7 +1,12 @@
 ## Shamshudeen J
+
+**Technical Lead - IoT** at ***Inspirisys*** <br>
+Inspirisys Solutions Limited, Chennai <br>
+Since Nov,***2020***
+
 **Project Engineer** at ***C-DAC*** <br>
 Centre for Development of Advanced Computing, Chennai <br>
-Since Aug,***2010***
+Aug,***2010*** to Nov ***2020***
 
 ## Projects
 
