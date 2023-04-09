@@ -1,5 +1,7 @@
 ## Shamshudeen J
 
+<img src="sham_profile_7.JPG" width="128"/>
+
 **Technical Lead - Microsoft Technologies** <br>
 TATA Consultancy Services, Chennai <br>
 Since Dec,***2021*** 
