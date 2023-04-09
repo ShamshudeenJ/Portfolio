@@ -1,8 +1,12 @@
 ## Shamshudeen J
 
+**Technical Lead - Microsoft Technologies** <br>
+TATA Consultancy Services, Chennai <br>
+Since Dec,***2021*** 
+
 **Technical Lead - IoT** <br>
 Inspirisys Solutions Limited, Chennai <br>
-Since Nov,***2020***
+Since Nov,***2020*** to Dec,***2021***
 
 **Project Engineer** <br>
 Centre for Development of Advanced Computing, Chennai <br>
@@ -10,7 +14,8 @@ Aug,***2010*** to Nov ***2020***
 
 ## Projects
 
-
+<br>
+<br>
 
 
 
@@ -35,5 +40,19 @@ A Two week classes for graduates on Python for data sciene
 6. Data Handling - Numpy and Pandas
 7. Visualization - Matplotlib and Seaborn
 
+## Academic Qualifications
+**Post Graduate - Master of Technology** <br>
+Embedded Systems Technology (Part time) <br>
+College of Engineering, Guindy <br>
+Anna University <br>
+August, 2018 to May,2021
+
+
+**Under Graduate - Bachelor of Engineering** <br>
+Electronics and Communication Engineering <br>
+SKP Engineering College, Thiruvannamalai <br>
+Anna University <br>
+August, 2006 to April,2010
+
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/shamshudeen-j-948ab726/)
+[LinkedIn](https://www.linkedin.com/in/shamshudeen-j-948ab726/)  | [Email](emailto:j.shamshudeen@gmail.com)
