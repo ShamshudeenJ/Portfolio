@@ -2,13 +2,17 @@
 
 <img src="sham_profile_7.JPG" width="128"/>
 
+**Senior Associate - Python / Fulll stack development** <br>
+BNY Technology Private Limited, Chennai <br>
+Since May,***2023*** 
+
 **Technical Lead - Microsoft Technologies** <br>
 TATA Consultancy Services, Chennai <br>
-Since Dec,***2021*** 
+Dec,***2021*** to May,***2023*** 
 
 **Technical Lead - IoT** <br>
 Inspirisys Solutions Limited, Chennai <br>
-Since Nov,***2020*** to Dec,***2021***
+Nov,***2020*** to Dec,***2021***
 
 **Project Engineer** <br>
 Centre for Development of Advanced Computing, Chennai <br>
