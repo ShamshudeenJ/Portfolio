@@ -1,6 +1,6 @@
 ## Shamshudeen J
 
-<img src="sham_profile_7.JPG" width="128"/>
+<img src="profile_boat.jpeg" width="260"/>
 
 **Senior Associate - Python / Fulll stack development** <br>
 BNY Technology Private Limited, Chennai <br>
